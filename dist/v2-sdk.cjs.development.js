@@ -11,7 +11,7 @@ var solidity = require('@ethersproject/solidity');
 var address = require('@ethersproject/address');
 
 var FACTORY_ADDRESS = '0xB8a040f25890A80363c1D82f6eF23322aAb46dF1';
-var INIT_CODE_HASH = '0xee1f51979112b3d810a806b816577bd46407f7b2074b6176246fa3d9d6d040b8';
+var INIT_CODE_HASH = '0xd791fed674bf5115485e28b3ecf3febe345200063a5d9056ce39654010787fef';
 var MINIMUM_LIQUIDITY = /*#__PURE__*/JSBI.BigInt(1000); // exports for internal consumption
 
 var ZERO = /*#__PURE__*/JSBI.BigInt(0);
